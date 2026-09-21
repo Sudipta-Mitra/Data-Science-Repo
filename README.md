@@ -30,6 +30,7 @@ I am a Data Science student passionate about solving real-world problems using A
 11. Credit Card Prediction [[ Link ](https://github.com/Sudipta-Mitra/Credit-Card-Prediction )]
 12. binary_classification_model  [[ Link ]( https://github.com/Sudipta-Mitra/binary_classification_model)]
 13. Data Cleaning and Preprocessing [[ Link ]( https://github.com/Sudipta-Mitra/Data-Cleaning-and-Preprocessing-)]
+14. Dataset-Aware-Classification-Algorithm-Selection-Framework [[ Link ]( https://github.com/Sudipta-Mitra/Dataset-Aware-Classification-Algorithm-Selection-Framework)]
 
 
 [[ Link ]( )]
@@ -46,6 +47,7 @@ I am a Data Science student passionate about solving real-world problems using A
 8. face-recognition- [[ Link ]( https://github.com/Sudipta-Mitra/face-recognition-)]
 9. Image-Classification [[ Link ](https://github.com/Sudipta-Mitra/Image-Classification )]
 10. HANDWRITTEN-DIGIT-DETECTION- [[ Link ]( https://github.com/Sudipta-Mitra/HANDWRITTEN-DIGIT-DETECTION-)]
+11. Hybrid-Models [[ Link ](https://github.com/Sudipta-Mitra/Hybrid-Models )]
 
 
 
