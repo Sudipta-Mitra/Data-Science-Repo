@@ -12,7 +12,7 @@ I am a Data Science student passionate about solving real-world problems using A
 
 
 
-# 📂 Project PortfoliO
+# 📂 Project Portfolio
 
 
 
@@ -31,6 +31,7 @@ I am a Data Science student passionate about solving real-world problems using A
 12. binary_classification_model  [[ Link ]( https://github.com/Sudipta-Mitra/binary_classification_model)]
 13. Data Cleaning and Preprocessing [[ Link ]( https://github.com/Sudipta-Mitra/Data-Cleaning-and-Preprocessing-)]
 14. Dataset-Aware-Classification-Algorithm-Selection-Framework [[ Link ]( https://github.com/Sudipta-Mitra/Dataset-Aware-Classification-Algorithm-Selection-Framework)]
+
 
 
 [[ Link ]( )]
@@ -73,6 +74,7 @@ I am a Data Science student passionate about solving real-world problems using A
 7. Sales-report [[ Link ]( https://github.com/Sudipta-Mitra/Sales-report)]
 8. HR-Analytics-Dashboard [[ Link ]( https://github.com/Sudipta-Mitra/HR-Analytics-Dashboard)]
 9. E-commerce-dashboard [[ Link ]( https://github.com/Sudipta-Mitra/E-commerce-dashboard)]
+10. Adventure-Work-Sales-Dashboard [[ Link ](https://github.com/Sudipta-Mitra/Adventure-Work-Sales-Dashboard )]
 
 [[ Link ]( )]
 
@@ -111,6 +113,12 @@ IBM-Internship-2026 [[ Link ](https://github.com/Sudipta-Mitra/IBM-Internship-20
 
 ## IEEE-SMC-Internship  
 IEEE-SMC-Internship-2026 [[ Link ](https://github.com/Sudipta-Mitra/IEEE-SMC-Internship )]
+
+## Anantya-Foundation
+Anantya-Foundation [[ Link ](https://github.com/Sudipta-Mitra/Anantya-Foundation )]
+
+## SEM 1 TO 8
+Sem-1-to-8 [[ Link ](https://github.com/Sudipta-Mitra/Sem-1-to-8 )]
 
 ## 📫 Connect With Me
 
