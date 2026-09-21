@@ -104,8 +104,11 @@ I am a Data Science student passionate about solving real-world problems using A
 7. Breast Cancer Detection [[ Link ](https://github.com/Sudipta-Mitra/Task-7- )]
 8. Customer Segmentation [[ Link ](https://github.com/Sudipta-Mitra/Task-8- )]
 
+## IBM Internship 
+IBM-Internship-2026 [[ Link ](https://github.com/Sudipta-Mitra/IBM-Internship-2026)]
 
-
+## IEEE-SMC-Internship  
+IEEE-SMC-Internship-2026 [[ Link ](https://github.com/Sudipta-Mitra/IEEE-SMC-Internship )]
 
 ## 📫 Connect With Me
 
